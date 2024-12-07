@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /authors/
+Disallow: /in-notes/authors/
+Disallow: /in-notes/rerendered/
+Disallow: /rfc/authors/
+Disallow: /rfc/rerendered/
+Disallow: /rfc/v3test/
+Sitemap: https://www.rfc-editor.org/siteindex.xml

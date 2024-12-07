@@ -1,0 +1,42 @@
+<?xml version='1.0'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9' xmlns:news='http://www.google.com/schemas/sitemap-news/0.9' xmlns:image='http://www.google.com/schemas/sitemap-image/1.1'>
+    <url>
+        <loc>https://www.wsj.com/livecoverage/jobs-report-stock-market-today-dow-nasdaq-sp500-12-06-2024</loc>
+        <news:news>
+            <news:publication>
+                <news:name>WSJ Live Coverage</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T14:46:00Z</news:publication_date>
+            <news:title>Stock Market News, Dec. 6, 2024: Indexes Gain After Solid Jobs Report</news:title>
+            <news:keywords></news:keywords>
+        </news:news>
+        <lastmod>2024-12-07T00:18:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-12-05-2024</loc>
+        <news:news>
+            <news:publication>
+                <news:name>WSJ Live Coverage</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T16:39:00Z</news:publication_date>
+            <news:title>Stock Market News, Dec. 5, 2024: Indexes Slip, Bitcoin Retreats From $100,000</news:title>
+            <news:keywords></news:keywords>
+        </news:news>
+        <lastmod>2024-12-05T23:48:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-12-04-2024</loc>
+        <news:news>
+            <news:publication>
+                <news:name>WSJ Live Coverage</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T20:43:00Z</news:publication_date>
+            <news:title>Stock Market News, Dec. 4, 2024: Dow Closes Above 45000 for First Time</news:title>
+            <news:keywords></news:keywords>
+        </news:news>
+        <lastmod>2024-12-05T01:45:00Z</lastmod>
+    </url>
+</urlset>

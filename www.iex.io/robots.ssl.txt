@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /section/
+Disallow: /podcast-categories/
+Disallow: /author/
+Disallow: /growth-and-community-programs/
+Disallow: /careers-company-testimonials/
+Disallow: /benefits-categories/
+Disallow: /benefits/
+Disallow: /twitter-cards/
+Disallow: /linkedin-cards/
+Disallow: /team-standards/
+Disallow: /companies/
+Disallow: /business-units/
+Disallow: /color-schemes/
+Disallow: /article/ftx-us-and-iex-join-forces-to-help-shape-market-structure-for-digital-assets
+
+User-agent: trafficpeak.io
+Disallow: /*__hs*
+
+Sitemap: https://www.iex.io/sitemap.xml

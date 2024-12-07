@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://files.brokercheck.finra.org/sitemap.xml

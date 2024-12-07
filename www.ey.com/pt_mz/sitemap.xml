@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/home.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/people.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/about-us.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/legal.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/news.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/industries.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/insights.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/services.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+<sitemap>
+    <loc>https://www.ey.com/pt_mz/sitemap/campaigns.xml</loc>
+    <lastmod>2024-12-06T16:23:37Z</lastmod>
+  </sitemap>
+
+</sitemapindex>
+
