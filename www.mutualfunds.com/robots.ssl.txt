@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: http://www.mutualfunds.com/sitemap-index.xml

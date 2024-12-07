@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /basicnet/
-Disallow: /nfamanual/NFAManual.aspx?RuleID=1004&Section=1
